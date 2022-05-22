@@ -507,7 +507,18 @@ fig.tight_layout()
 ```python
 
 ```
+### 下载代码补全扩展代码：
 
+    pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ jupyter_contrib_nbextensions
+
+jupyter contrib nbextension install --user
+
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ jupyter_nbextensions_configurator
+
+jupyter nbextensions_configurator enable --user
+
+
+#### 在Anaconda cmd.exe中输入以上命令，等待下载完成，即可在notebook的Nbextensions处勾选Hinterland选项完成代码补全插件的启用。
 
 ```python
 
