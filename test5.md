@@ -6,25 +6,25 @@
     
     输入命令：pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ tflite-model-maker，安装tflite-model-maker库
     
-    ![image](https://github.com/FurMax/AndroidTest2/blob/image/d1.png)
+    ![image]( https://github.com/FurMax/AndroidTest2/blob/image/d1.png)
 
-     ![image](https://github.com/FurMax/AndroidTest2/blob/image/d2.png)
+     ![image]( https://github.com/FurMax/AndroidTest2/blob/image/d2.png)
 
     下载完相关依赖后，发现报错，报错提示没有安装conda-repo-cli==1.0.4 和 anaconda-project==0.9.1
 
 #### ②： 下载conda-repo-cli 1.0.4:
 
     输入命令： pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ conda-repo-cli==1.0.4 ,安装conda-repo-cli==1.0.4
-        ![image](https://github.com/FurMax/AndroidTest2/blob/image/d3.png)
-        ![image](https://github.com/FurMax/AndroidTest2/blob/image/d4.png)
+        ![image]( https://github.com/FurMax/AndroidTest2/blob/image/d3.png)
+        ![image]( https://github.com/FurMax/AndroidTest2/blob/image/d4.png)
 
 
     
 #### ③： 下载anaconda-project==0.9.1
 
     输入命令: pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ anaconda-project==0.9.1
-        ![image](https://github.com/FurMax/AndroidTest2/blob/image/d5.png)
-            ![image](https://github.com/FurMax/AndroidTest2/blob/image/d6.png)
+        ![image] (https://github.com/FurMax/AndroidTest2/blob/image/d5.png)
+            ![image] (https://github.com/FurMax/AndroidTest2/blob/image/d6.png)
 
 
     
@@ -460,5 +460,5 @@ model.export(export_dir='.')
     
 
     然后我们可以在notebook的工作目录下查看到模型文件：如下图：
-        ![image](https://github.com/FurMax/AndroidTest2/blob/image/r1.png)
+        ![image] (https://github.com/FurMax/AndroidTest2/blob/image/r1.png)
 
